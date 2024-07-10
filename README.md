@@ -6,8 +6,8 @@ Daniil Kim, Natalia Clark, Antonia Murad Pim, Marnix Van der Stighelen and Phili
 - Final segmentation clustering notebook:
 - Dataset:
 - Dictionary of grouping of healthcare specializations supporting demand analysis:
-- final model pickle:
-- 
+- final model pickle: lasso_model.pkl , lasso_model_refitted.pkl
+- Next quarter predictions for 2021 Q1: 2021Q1_predictions.csv
 
 ## Summary
 
