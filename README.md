@@ -2,10 +2,11 @@
 Daniil Kim, Natalia Clark, Antonia Murad Pim, Marnix Van der Stighelen and Philip Dias Santilhano
 
 ## Files and Descriptions 
-- Final demand prediction notebook:
-- Final segmentation clustering notebook:
-- Dataset:
-- Dictionary of grouping of healthcare specializations supporting demand analysis:
+- Final demand prediction notebook: Demand_Predictions.ipynb
+- Final segmentation clustering notebook: Segmentation_Analysis.ipynb
+- Original data: datos_ie.xlsx
+- Data for segmentation: segmentation.csv
+- Dictionary of grouping of healthcare specializations supporting demand analysis: specialization_dict.txt
 - final model pickle: lasso_model.pkl , lasso_model_refitted.pkl
 - Next quarter predictions for 2021 Q1: 2021Q1_predictions.csv
 
