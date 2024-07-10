@@ -1,6 +1,14 @@
 # Health Insurance Claims Analysis for North Carolina (2018-2020)
 Daniil Kim, Natalia Clark, Antonia Murad Pim, Marnix Van der Stighelen and Philip Dias Santilhano
 
+## Files and Descriptions 
+- Final demand prediction notebook:
+- Final segmentation clustering notebook:
+- Dataset:
+- Dictionary of grouping of healthcare specializations supporting demand analysis:
+- final model pickle:
+- 
+
 ## Summary
 
 ### Technical Objectives
